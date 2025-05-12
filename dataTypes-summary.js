@@ -35,5 +35,16 @@ const myFunction = function(){
     console.log("Hello world");
 }
 
-console.log(myFunction);
+console.log(typeof myFunction);
 
+// score dataType is number
+// scoreValue dataTyp is number
+// isLoggedIn dataType is Boolean
+// outsideTemp dataType is Object
+// userName dataType is undefined
+// id dataType is Symbol
+// anotherId dataType is Symbol
+// bigNumber dataType us BigInt
+// heros dataType is Object
+// myObj dataType is object
+// function dataType is function
